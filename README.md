@@ -1,0 +1,2 @@
+# meteo
+plugin meteo
